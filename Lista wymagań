@@ -1,1 +1,31 @@
-a
+Lista wymagań
+
+Funkcjonalne
+•	Operacje arytmetyczne1
+ 	Dodawanie
+ 	Odejmowanie
+ 	Mnożenie
+ 	Dzielenie
+•	Potęgowanie1
+•	Pierwiastki n-tego stopnia1
+•	Operacje trygonometryczne1
+ 	Sinus
+ 	Cosinus
+ 	Tangens
+ 	Cotangens
+•	Klawiatura ekranowa*2
+•	Możliwość wprowadzania liczb do programu**1
+
+Niefunkcjonalne
+•	Możliwość zmiany wyglądu***3
+•	Zapisywanie ustawień****3
+
+1 – wymagania krytyczne
+2 – istotne
+3 – mało ważne
+
+Słownik
+* - Nasza klawiatura zawierała będzie cyfry i znaki działań („+”, „-”, „*”, „/”, „=”), a także kasowanie ostatniej cyfry oraz kasowanie całej liczby. Zakładamy, że wpisywana jest pojedyncza liczba, nie równanie.
+** - Okienko wyświetlające. Komunikacja z użytkownikiem (widzi co wpisuje), oraz wypisywanie wyniku operacji.
+*** - Zmiana koloru tła i klawiatury programu, na tą wybraną przez użytkownika.
+**** - Po ponownym uruchomieniu kalkulatora pojawi się ostatnio wybrany wygląd.
