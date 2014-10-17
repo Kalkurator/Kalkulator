@@ -23,9 +23,9 @@ Niefunkcjonalne
 •	Zapisywanie ustawień****(3)
 • Interfejs graficzny*****(3)
 
-1 – wymagania krytyczne
-2 – istotne
-3 – mało ważne
+1 – wymagania krytyczne.
+2 – istotne.
+3 – mało ważne.
 
 Słownik
 * - Nasza klawiatura zawierała będzie cyfry i znaki działań („+”, „-”, „*”, „/”, „=”), a także kasowanie ostatniej cyfry oraz kasowanie całej liczby. Zakładamy, że wpisywana jest pojedyncza liczba, nie równanie.
