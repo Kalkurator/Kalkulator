@@ -19,6 +19,7 @@ Funkcjonalne
 Niefunkcjonalne
 •	Możliwość zmiany wyglądu***3
 •	Zapisywanie ustawień****3
+• Interfejs graficzny*****3
 
 1 – wymagania krytyczne
 2 – istotne
@@ -29,3 +30,4 @@ Słownik
 ** - Okienko wyświetlające. Komunikacja z użytkownikiem (widzi co wpisuje), oraz wypisywanie wyniku operacji.
 *** - Zmiana koloru tła i klawiatury programu, na tą wybraną przez użytkownika.
 **** - Po ponownym uruchomieniu kalkulatora pojawi się ostatnio wybrany wygląd.
+***** - Np. podświetlanie przycisków, czytelny i atrakcyjny interfejs.
