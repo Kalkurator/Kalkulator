@@ -1,25 +1,27 @@
 Lista wymagań
 
 Funkcjonalne
-•	Operacje arytmetyczne1
+•	Operacje arytmetyczne(1)
  	Dodawanie
  	Odejmowanie
  	Mnożenie
  	Dzielenie
-•	Potęgowanie1
-•	Pierwiastki n-tego stopnia1
-•	Operacje trygonometryczne1
+•	Potęgowanie(1)
+•	Pierwiastki n-tego stopnia(1)
+•	Operacje trygonometryczne(1)
  	Sinus
  	Cosinus
  	Tangens
  	Cotangens
-•	Klawiatura ekranowa*2
-•	Możliwość wprowadzania liczb do programu**1
+•	Klawiatura ekranowa*(2)
+•	Możliwość wprowadzania liczb do programu**(1)
+• Możliwość zmiany znaku liczby(2)
+• Możliwość zapisu wyniku do pamięci(2)
 
 Niefunkcjonalne
-•	Możliwość zmiany wyglądu***3
-•	Zapisywanie ustawień****3
-• Interfejs graficzny*****3
+•	Możliwość zmiany wyglądu***(3)
+•	Zapisywanie ustawień****(3)
+• Interfejs graficzny*****(3)
 
 1 – wymagania krytyczne
 2 – istotne
